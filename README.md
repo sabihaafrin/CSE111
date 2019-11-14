@@ -1,3 +1,3 @@
 # CSE111
-all about submissions
-Assignment02
+all about assignment submissions
+
